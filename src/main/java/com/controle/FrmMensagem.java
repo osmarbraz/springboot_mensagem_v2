@@ -1,7 +1,7 @@
 package com.controle;
 
 /**
- * Modelo do formulário de mensagem.
+ * Modelo do formulário de mensagem FrmMensagem.html.
  *
  * @author osmar
  */

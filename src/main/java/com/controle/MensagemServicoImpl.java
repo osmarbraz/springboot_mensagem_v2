@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 public class MensagemServicoImpl {
 
     /**
-     * Carrega o arquivo "index.html" do diretório templates como
+     * Carrega o arquivo "FrmMenasgem.html" do diretório templates como
      * default "/" do projeto.
      *
      * @param frmMensagem

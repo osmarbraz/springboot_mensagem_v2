@@ -6,7 +6,7 @@
     </head>
     <body>
           <h1>Formul&aacute;rio Mensagem Servi&ccedil;o</h1>
-          <form action="#" th:action="@{/setMensagem}" th:object="${frmMensagem}"  method="post">                               
+          <form action="#" th:action="@{/setMensagem}" th:object="${frmMensagem}" method="post">                               
             Nova mensagem: <input type="text" th:field="*{mensagem}" /> <p>
             <input type="reset" value="Limpar">
             <input type="submit" name="Enviar" value="Enviar"> <p>		
